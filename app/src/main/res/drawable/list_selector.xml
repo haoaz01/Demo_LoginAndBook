@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <selector xmlns:android="http://schemas.android.com/apk/res/android">
+        <!-- Khi item được chọn -->
+        <item android:state_pressed="true">
+            <color android:color="#FFBB33"/> <!-- màu vàng -->
+        </item>
+        <!-- Khi item đang được focus -->
+        <item android:state_focused="true">
+            <color android:color="#FFBB33"/>
+        </item>
+        <!-- Mặc định -->
+        <item>
+            <color android:color="@android:color/transparent"/>
+        </item>
+    </selector>

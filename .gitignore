@@ -1,0 +1,16 @@
+# Android Studio
+.idea/
+*.iml
+.gradle/
+local.properties
+/build/
+**/build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large/Unnecessary files
+**/caches/
+**/transforms/
+*.jar

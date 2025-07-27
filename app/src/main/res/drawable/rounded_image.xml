@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners android:radius="16dp" /> <!-- Bo tròn góc -->
+    <solid android:color="#FFFFFF"/> <!-- Nếu ảnh có nền trong suốt -->
+</shape>
